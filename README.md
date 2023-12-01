@@ -9,3 +9,9 @@ Desarrollar una escena 3D que cumpla con los siguientes requisitos:
 - Implementar una mecánica en la que el jugador al fijar la mirada sobre la pizarra, las arañas se alejen y las sillas vuelvan a su posición original.
 
 ![img](https://github.com/julio-carrasco/unity-sesion2/blob/main/Captura%20de%20pantalla%20(1).png)
+
+- Crear un script que actúe de controlador del movimiento del Zombie, avanzando siempre hacia delante del eje Z.
+  Se implementa en el script zombie_crawl.cs
+
+- Crear un script para teletransportar al monstruo a cada vez que se pulse la tecla T.
+    Se implementa en teleport.cs, se tiene en cuenta rotacion con cuaterniones
